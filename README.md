@@ -38,7 +38,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>http://ignorame</link>
 <thumbnail>https://s2.glbimg.com/2Unlfkj3XJd6_mAguv-N5yLAuVw=/362x536/https://s2.glbimg.com/3-RwvjMBVebzSYYmC2AERfYdjKE=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/a4/10/e0ace192cf2153e7a6b5558a7dc7.jpg</thumbnail>
 <fanart>http://s2.glbimg.com/zM3ek3s4IcmOqHx9uCOnD-EkBrxU0sHzOo0mvw5u6JJIoz-HdGixxa_8qOZvMp3w/s.glbimg.com/et/nv/f/original/2012/09/29/empreguetes_chay_fabian7.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-canais-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/8bdQ9wuw</externallink>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
