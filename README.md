@@ -20,6 +20,67 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Torre de Babel[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae6GZAoDx81kA7XJ4cszRtn28xB.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ae6GZAoDx81kA7XJ4cszRtn28xB.jpg</fanart>
+<externallink>https://pastebin.com/raw/tPQMLYkK</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Toma Lá, Dá Cá [/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9vGYREvnxzB6AKnuFAK6od6ct6.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z9vGYREvnxzB6AKnuFAK6od6ct6.jpg</fanart>
+<externallink>https://pastebin.com/raw/2LkzZpCH</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Tieta[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkjVafR13oVQgdZNdCdCwOrbRQT.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkjVafR13oVQgdZNdCdCwOrbRQT.jpg</fanart>
+<externallink>https://pastebin.com/raw/LMQhwNsu</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Terra Nostra[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd30s8iy2ya7vUZCx75ygjVOjLx.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/gd30s8iy2ya7vUZCx75ygjVOjLx.jpg</fanart>
+<externallink>https://pastebin.com/raw/z4e78d89</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Sinhá Moça [/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1adJ67FAbPRTgS3adMyXfDX9TeX.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1adJ67FAbPRTgS3adMyXfDX9TeX.jpg</fanart>
+<externallink>https://pastebin.com/raw/rc4WT3mH</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
 
 <channels>
 <channel>
