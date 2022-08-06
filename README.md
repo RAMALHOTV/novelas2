@@ -10,6 +10,86 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]VIRA LATA [/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://1.bp.blogspot.com/-aHADRveuqPg/Vvfv657VlnI/AAAAAAAAEx0/ORzFbw8RNdMGhTjiHvpmjJD60Qmr7vUhQ/s1600/VIRA%2BLATA%2B1.jpg</thumbnail>
+<fanart>https://1.bp.blogspot.com/-aHADRveuqPg/Vvfv657VlnI/AAAAAAAAEx0/ORzFbw8RNdMGhTjiHvpmjJD60Qmr7vUhQ/s1600/VIRA%2BLATA%2B1.jpg</fanart>
+<externallink>https://pastebin.com/raw/0DT13w5J</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Verdades Secretas[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/faRwRQbaxJ0ZAtpLjkSSGXlG3Ze.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/faRwRQbaxJ0ZAtpLjkSSGXlG3Ze.jpg</fanart>
+<externallink>https://pastebin.com/raw/YdQtmQEe</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Vamp[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/hraqCyi74iv8YfWI0LDl3QSiz9d.jpg</fanart>
+<externallink>https://pastebin.com/raw/TJTwzzpe</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Vale Tudo [/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDcRbUmRtri8ibccK19C9vYslxF.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDcRbUmRtri8ibccK19C9vYslxF.jpg</fanart>
+<externallink>https://pastebin.com/raw/iu9yNFcK</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white],Uma Vida Nova[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIumUT6UbR5kDipKJcbjhFsZEO.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cCIumUT6UbR5kDipKJcbjhFsZEO.jpg</fanart>
+<externallink>https://pastebin.com/raw/KhkscNHT</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]Um Lugar ao Sol [/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/63qlVcvlVzOvMaFO8tFA2VG64Yc.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/TnrpDg8cHA0/mqdefault.jpg</fanart>
+<externallink>https://image.tmdb.org/t/p/w600_and_h900_bestv2/63qlVcvlVzOvMaFO8tFA2VG64Yc.jpg</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
+<channels>
+<channel>
+<name>[B][COLOR lime]Novela[/COLOR] [COLOR white]UM ANJO QUE CAIU DO CEU[/COLOR][/B]</name>
+<link>http://ignorame</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/55/Umanjocaiudoceu-logo.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/pt/5/55/Umanjocaiudoceu-logo.jpg</fanart>
+<externallink>https://pastebin.com/raw/SzFUXJVC</externallink>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
+
+
+
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX<channels>
 <channels>
